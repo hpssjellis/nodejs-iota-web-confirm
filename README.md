@@ -11,8 +11,8 @@ This is just suppossed to be a starting point. Made August 22nd, 2019 and will p
 Open a web browser to whatever URL your node program suggests
 
 1. Using your Trinity Wallet send IOTA to the below receive address
-1. On confirmation of IOTA being sent using your Trinity Wallet, click the Submit button below
-1. If the chart does not update, click the "reload" button until your IOTA is confirmed in the chart
+1. On confirmation of IOTA being sent using your Trinity Wallet, click the Submit button on the web app
+1. If the chart does not update, click the "reload" button on the web app until your IOTA is confirmed in the chart
 1. May need to click the "reload" button again to get a new recieve address
 
 
