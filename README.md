@@ -1,5 +1,5 @@
 # nodejs-iota-web-confirm
-A simple web app in nodejs to show confirmed IOTA transactions
+A simple web app in nodejs to show confirmed IOTA transactions in a chart showing the message, tokens sent and identifying what range of tokens.
 
 
 This is just suppossed to be a starting point. Made August 22nd, 2019 and will probably be deprecated fairly soon
