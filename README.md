@@ -6,7 +6,7 @@ To load in Gitpod (the easy online Docker) click this link https://gitpod.io/#gi
 
 This is just suppossed to be a starting point. Made August 22nd, 2019 and will probably be deprecated fairly soon
 
-IMPORTANT REPLACE THIS FOLLOWING LINE IN THE app.js CODE WITH ONE OF YOUR IOTA SEEDS (Probably a good idea to make a new seed and not to use your main seed)
+IMPORTANT, REPLACE THE FOLLOWING LINE IN THE APP.JS CODE WITH ONE OF YOUR IOTA SEEDS (Probably a good idea to make a new seed and not to use your main seed)
 
 ```const mySeed = 'DONOTSTOREYOURSEEDONAPUBLICGITHUBSITEASANYONECANSTEALALLYOUR9IOTATOKENSKEEPITSAFE'```
 
@@ -25,7 +25,10 @@ Open a web browser to whatever URL your node program suggests
 
 
 
+.
 
+
+The package.json file uses these NPM's
 
 ```
 "express": "^4.17.1",
