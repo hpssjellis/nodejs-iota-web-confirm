@@ -2,6 +2,8 @@
 A simple web app in nodejs to show confirmed IOTA transactions in a chart showing the message, tokens sent and identifying what range of tokens.
 
 
+To load in Gitpod (the easy online Docker) click this link https://gitpod.io/#github.com/hpssjellis/nodejs-iota-web-confirm
+
 This is just suppossed to be a starting point. Made August 22nd, 2019 and will probably be deprecated fairly soon
 
 ```npm install ```
