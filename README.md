@@ -55,6 +55,14 @@ https://www.npmjs.com/package/@iota/transaction-converter then click on "version
 
 https://www.npmjs.com/package/@iota/zeromq then click on "version"
 
+
+
+-------------------------------------------
+
+
+Nuch of the base for this project used this site https://github.com/iota-community/javascript-iota-workshop
+
+
 By Jeremy Ellis Twitter @rocksetta Use at your Own Risk!
 
 Do not use your main IOTA seed but setup a temporary seed for any projects.
